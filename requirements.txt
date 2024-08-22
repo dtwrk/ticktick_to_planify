@@ -1,0 +1,9 @@
+tested on:
+python==3.9.18
+python libs:
+    csv
+    os.path
+    subprocess
+    datetime
+    dateutil
+    sqlalchemy
